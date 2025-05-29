@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(201, 164, 164);
+    color: white;
+    background-color: rgb(99, 28, 66);
+}
+.logotipo{
+    height: 200px;
+}
+main{
+   background-image: url('imagens/fundotopmesmo2.png');
+    height: 1200px;
+
+}
+header{
+    height: 420px;
+}
